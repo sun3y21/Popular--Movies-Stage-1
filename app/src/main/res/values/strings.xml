@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    
+    <string name="Sort_by">Sort By</string>
+
+
+    <string name="default_sort_type" translatable="false" >Most Popular</string>
+
+    <string name="top_rate" translatable="false">Top Rated</string>
+
+    <string name="summary_data">Sort the movies as per popularity or rating</string>
+
+    <!-- Key name for storing location in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_by" translatable="false">sortBy</string>
+
+</resources>
